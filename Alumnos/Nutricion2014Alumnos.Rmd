@@ -1,4 +1,4 @@
-# Evaluación Institucional (Alumnos) - Nutrición 2014
+# Alumnos - Nutrición 2014
 ## Descripción
 Aquí presentamos los resultados de las encuestas de `evaluación institucional` llevada a cabo en mayo del 2014 en la que se recabaron datos de los alumnos de la carrera de `Nutrición` de la Facultad de Medicina (Sede Asunción) de la Universidad del Norte. La encuesta consistió en un formulario de `91 preguntas` evaluando cada una de las siguientes dimensiones:
 * Dimensión 1: Organización & Gestión
@@ -18,7 +18,7 @@ Aquí presentamos los resultados de las encuestas de `evaluación institucional`
 * Dimensión 4: Recursos
     * 4.1: Infraestructura, equipamientos e insumos
 
-El formulario de encuesta también incluyó preguntas acerca del `Año`(1º, 2º, 3º, 4º) en curso y el `Turno` (mañana, tarde, noche) del estudiante. Se obtuvieron `282` formularios de respuestas, los cuales fueron cargados en una base de datos en formato `.csv` para su análisis estadístico. Los datos fueron preprocesados y analizados con [R](http://www.r-project.org) versión 3.1.0. Este documento fue redactado utilizando MarkDown en [RStudio](http://www.rstudio.com) versión 0.98.501 y el paquete [knitr](http://cran.r-project.org/web/packages/knitr/index.html) versión 1.6 de [Yihui Xie](http://yihui.name/knitr).
+El formulario de encuesta también incluyó preguntas acerca del `Año` (1º, 2º, 3º, 4º) en curso y el `Turno` (mañana, tarde, noche) del estudiante. Se obtuvieron `282` formularios de respuestas, los cuales fueron cargados en una base de datos en formato `.csv` para su análisis estadístico. Los datos fueron preprocesados y analizados con [R](http://www.r-project.org) versión 3.1.0. Este documento fue redactado utilizando MarkDown en [RStudio](http://www.rstudio.com) versión 0.98.501 y el paquete [knitr](http://cran.r-project.org/web/packages/knitr/index.html) versión 1.6 de [Yihui Xie](http://yihui.name/knitr).
 
 ## Preprocesamiento de datos
 Primero cargamos la base de datos:
