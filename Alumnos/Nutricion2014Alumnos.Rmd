@@ -58,7 +58,7 @@ data.alumnos$Turno <- factor(data.alumnos$Turno, levels(data.alumnos$Turno)[c(1,
 ```
 Cargamos las preguntas contenidas en el formulario:
 ```{r}
-source("../AlumnosQ.R")
+source("AlumnosQ.R")
 ```
 
 
